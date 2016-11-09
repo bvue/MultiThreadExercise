@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MultiThreadExercise:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="multithreadexercise.war">
+      <element id="artifact" artifact-name="MultiThreadExercise:war exploded" />
+    </root>
+  </artifact>
+</component>
